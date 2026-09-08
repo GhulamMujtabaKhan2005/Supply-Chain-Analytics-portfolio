@@ -1,1 +1,2 @@
-01 - Forecasting supply chain analytics excercise
+01 - Forecasting 
+forecasting supply chain analytics exercise and notebooks
