@@ -1,1 +1,2 @@
-00 - Initial working supply chain anaylitics
+00 - Initial Working
+Initial working of supply chain analytics.
