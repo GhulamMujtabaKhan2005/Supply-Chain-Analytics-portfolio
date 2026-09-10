@@ -1,0 +1,105 @@
+Week_Start_Date,Units_Sold,Unit_Price_PKR,USD_PKR_Rate,Unit_Price_USD,Promotion_Flag,Notes
+2024-01-01,195321,22622,280.54,80.64,0,Winter peak refinery offtake
+2024-01-08,185291,21678,280.54,77.27,0,Winter peak refinery offtake
+2024-01-15,194274,21896,280.54,78.05,0,Winter peak refinery offtake
+2024-01-22,191627,22060,280.54,78.64,0,Winter peak refinery offtake
+2024-01-29,185904,21537,280.54,76.77,0,Winter peak refinery offtake
+2024-02-05,172065,22627,279.34,81.0,0,Winter peak refinery offtake
+2024-02-12,165410,22626,279.34,81.0,0,
+2024-02-19,179039,21832,279.34,78.16,0,
+2024-02-26,135800,23087,279.34,82.65,0,2024 flooding-related field access disruption
+2024-03-04,173844,24261,278.76,87.03,0,
+2024-03-11,218660,22217,278.76,79.7,1,Prompt-lifting trade incentive (illustrative)
+2024-03-18,173761,23891,278.76,85.7,0,
+2024-03-25,167741,24216,278.76,86.87,0,
+2024-04-01,157392,25181,278.17,90.52,0,Planned well/field maintenance turnaround
+2024-04-08,169467,25191,278.17,90.56,0,Planned well/field maintenance turnaround
+2024-04-15,166769,24578,278.17,88.36,0,Planned well/field maintenance turnaround
+2024-04-22,161046,25594,278.17,92.01,0,Planned well/field maintenance turnaround
+2024-04-29,170794,25376,278.17,91.23,0,Planned well/field maintenance turnaround
+2024-05-06,177976,23511,278.37,84.46,0,
+2024-05-13,185002,22669,278.37,81.44,0,
+2024-05-20,175416,24155,278.37,86.77,0,
+2024-05-27,169618,23455,278.37,84.26,0,
+2024-06-03,169616,22664,278.55,81.37,0,
+2024-06-10,155699,23768,278.55,85.33,0,
+2024-06-17,171533,22820,278.55,81.93,0,
+2024-06-24,170090,22178,278.55,79.62,0,
+2024-07-01,143878,22095,278.45,79.35,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-07-08,152713,21257,278.45,76.34,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-07-15,161968,22744,278.45,81.68,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-07-22,147542,22090,278.45,79.33,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-07-29,190869,21267,278.45,76.38,1,Prompt-lifting trade incentive (illustrative)
+2024-08-05,159857,22485,278.64,80.69,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-08-12,156477,21286,278.64,76.39,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-08-19,172921,22248,278.64,79.85,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-08-26,142826,21104,278.64,75.74,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-09-02,156603,20324,278.34,73.02,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-09-09,153690,20101,278.34,72.22,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-09-16,151791,21199,278.34,76.16,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-09-23,174927,21325,278.34,76.61,0,
+2024-09-30,167651,20461,278.34,73.51,0,
+2024-10-07,153097,21176,277.68,76.26,0,
+2024-10-14,161156,20751,277.68,74.73,0,
+2024-10-21,177657,21063,277.68,75.85,0,
+2024-10-28,176034,20512,277.68,73.87,0,
+2024-11-04,164245,19594,277.9,70.51,0,
+2024-11-11,232958,19024,277.9,68.46,1,Prompt-lifting trade incentive (illustrative)
+2024-11-18,187607,20442,277.9,73.56,0,
+2024-11-25,200390,19751,277.9,71.07,1,Prompt-lifting trade incentive (illustrative)
+2024-12-02,176284,20687,278.06,74.4,0,Winter peak refinery offtake
+2024-12-09,177713,20361,278.06,73.22,0,Winter peak refinery offtake
+2024-12-16,180836,21363,278.06,76.83,0,Winter peak refinery offtake
+2024-12-23,173094,20674,278.06,74.35,0,Winter peak refinery offtake
+2024-12-30,180473,20618,278.06,74.15,0,Winter peak refinery offtake
+2025-01-06,193107,20095,278.67,72.11,1,Prompt-lifting trade incentive (illustrative)
+2025-01-13,177989,20845,278.67,74.8,0,Winter peak refinery offtake
+2025-01-20,154493,20771,278.67,74.54,0,Winter peak refinery offtake | Unplanned wellhead shutdown - safety inspection
+2025-01-27,173277,20300,278.67,72.85,0,Winter peak refinery offtake
+2025-02-03,171078,20870,279.22,74.74,0,Winter peak refinery offtake
+2025-02-10,160241,20623,279.22,73.86,0,
+2025-02-17,158571,21155,279.22,75.77,0,
+2025-02-24,147282,20510,279.22,73.45,0,
+2025-03-03,162291,19111,279.84,68.29,0,
+2025-03-10,172207,19829,279.84,70.86,0,
+2025-03-17,161474,20544,279.84,73.41,0,
+2025-03-24,205725,19122,279.84,68.34,1,Prompt-lifting trade incentive (illustrative)
+2025-03-31,165556,19100,279.84,68.26,1,Prompt-lifting trade incentive (illustrative)
+2025-04-07,146166,18627,280.63,66.38,0,Planned well/field maintenance turnaround
+2025-04-14,149896,18682,280.63,66.57,0,Planned well/field maintenance turnaround
+2025-04-21,147833,18968,280.63,67.59,0,Planned well/field maintenance turnaround
+2025-04-28,146589,18632,280.63,66.4,0,Planned well/field maintenance turnaround
+2025-05-05,166116,19147,281.67,67.98,0,
+2025-05-12,175681,18485,281.67,65.63,0,
+2025-05-19,157622,18631,281.67,66.14,0,
+2025-05-26,149980,19125,281.67,67.9,0,
+2025-06-02,166972,19818,282.93,70.04,0,
+2025-06-09,151550,19157,282.93,67.71,0,
+2025-06-16,153241,19367,282.93,68.45,0,
+2025-06-23,165302,19522,282.93,69.0,0,
+2025-06-30,144305,19165,282.93,67.74,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-07-07,140752,19189,284.23,67.51,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-07-14,145546,20157,284.23,70.92,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-07-21,142286,20252,284.23,71.25,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-07-28,157127,20061,284.23,70.58,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-08-04,140271,18908,283.29,66.74,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-08-11,138588,19188,283.29,67.73,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-08-18,141429,19036,283.29,67.2,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-08-25,141564,19148,283.29,67.59,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-09-01,147964,19172,283.14,67.71,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-09-08,131058,19259,283.14,68.02,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-09-15,146575,18937,283.14,66.88,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-09-22,155751,18892,283.14,66.72,0,
+2025-09-29,221095,17874,283.14,63.12,1,Prompt-lifting trade incentive (illustrative)
+2025-10-06,158983,18085,282.65,63.98,0,
+2025-10-13,204004,16950,282.65,59.97,1,Prompt-lifting trade incentive (illustrative)
+2025-10-20,156210,17846,282.65,63.14,0,
+2025-10-27,145786,18069,282.65,63.93,0,Pipeline/export terminal congestion
+2025-11-03,170579,17981,282.02,63.76,0,
+2025-11-10,153267,17502,282.02,62.06,0,
+2025-11-17,157621,17086,282.02,60.58,0,
+2025-11-24,164053,17041,282.02,60.42,0,Winter peak refinery offtake
+2025-12-01,179568,16541,280.54,58.96,0,Winter peak refinery offtake
+2025-12-08,164123,16958,280.54,60.45,0,Winter peak refinery offtake
+2025-12-15,161713,16964,280.54,60.47,0,Winter peak refinery offtake
+2025-12-22,162715,16347,280.54,58.27,0,Winter peak refinery offtake
