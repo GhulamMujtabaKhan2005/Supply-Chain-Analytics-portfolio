@@ -1,0 +1,105 @@
+Week_Start_Date,Units_Sold,Unit_Price_PKR,Promotion_Flag,Notes
+2024-01-01,195321,20756,0,Winter peak refinery offtake
+2024-01-08,185291,20642,0,Winter peak refinery offtake
+2024-01-15,194274,20754,0,Winter peak refinery offtake
+2024-01-22,191627,20887,0,Winter peak refinery offtake
+2024-01-29,185904,20853,0,Winter peak refinery offtake
+2024-02-05,172065,21075,0,Winter peak refinery offtake
+2024-02-12,165410,20857,0,
+2024-02-19,179039,20905,0,
+2024-02-26,135800,21028,0,2024 flooding-related field access disruption
+2024-03-04,173844,21466,0,
+2024-03-11,218660,19989,1,Prompt-lifting trade incentive (illustrative)
+2024-03-18,173761,21447,0,
+2024-03-25,167741,20816,0,
+2024-04-01,157392,21137,0,Planned well/field maintenance turnaround
+2024-04-08,169467,21041,0,Planned well/field maintenance turnaround
+2024-04-15,166769,20964,0,Planned well/field maintenance turnaround
+2024-04-22,161046,21308,0,Planned well/field maintenance turnaround
+2024-04-29,170794,21311,0,Planned well/field maintenance turnaround
+2024-05-06,177976,21105,0,
+2024-05-13,185002,20787,0,
+2024-05-20,175416,21166,0,
+2024-05-27,169618,21309,0,
+2024-06-03,169616,21303,0,
+2024-06-10,155699,21488,0,
+2024-06-17,171533,21763,0,
+2024-06-24,170090,21463,0,
+2024-07-01,143878,21520,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-07-08,152713,21454,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-07-15,161968,21698,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-07-22,147542,21585,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-07-29,190869,22314,1,Prompt-lifting trade incentive (illustrative) | Price increase - PKR depreciation/import parity adjustment
+2024-08-05,159857,23661,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-08-12,156477,23319,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-08-19,172921,23229,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-08-26,142826,23422,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-09-02,156603,23610,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-09-09,153690,23488,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-09-16,151791,23645,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2024-09-23,174927,23266,0,
+2024-09-30,167651,23246,0,
+2024-10-07,153097,23348,0,
+2024-10-14,161156,23204,0,
+2024-10-21,177657,23554,0,
+2024-10-28,176034,23453,0,
+2024-11-04,164245,23871,0,
+2024-11-11,232958,22056,1,Prompt-lifting trade incentive (illustrative)
+2024-11-18,187607,24002,0,
+2024-11-25,200390,22262,1,Prompt-lifting trade incentive (illustrative)
+2024-12-02,176284,23394,0,Winter peak refinery offtake
+2024-12-09,177713,23518,0,Winter peak refinery offtake
+2024-12-16,180836,24203,0,Winter peak refinery offtake
+2024-12-23,173094,23757,0,Winter peak refinery offtake
+2024-12-30,180473,23919,0,Winter peak refinery offtake
+2025-01-06,193107,22407,1,Prompt-lifting trade incentive (illustrative)
+2025-01-13,177989,23825,0,Winter peak refinery offtake
+2025-01-20,154493,23753,0,Winter peak refinery offtake | Unplanned wellhead shutdown - safety inspection
+2025-01-27,173277,23913,0,Winter peak refinery offtake
+2025-02-03,171078,24046,0,Winter peak refinery offtake
+2025-02-10,160241,24356,0,
+2025-02-17,158571,23531,0,
+2025-02-24,147282,24395,0,
+2025-03-03,162291,24162,0,
+2025-03-10,172207,23973,0,
+2025-03-17,161474,23957,0,
+2025-03-24,205725,23520,1,Prompt-lifting trade incentive (illustrative)
+2025-03-31,165556,22961,1,Prompt-lifting trade incentive (illustrative)
+2025-04-07,146166,23799,0,Planned well/field maintenance turnaround
+2025-04-14,149896,24285,0,Planned well/field maintenance turnaround
+2025-04-21,147833,24501,0,Planned well/field maintenance turnaround
+2025-04-28,146589,24459,0,Planned well/field maintenance turnaround
+2025-05-05,166116,25574,0,Price increase - PKR depreciation/import parity adjustment
+2025-05-12,175681,25418,0,
+2025-05-19,157622,25709,0,
+2025-05-26,149980,26662,0,
+2025-06-02,166972,25451,0,
+2025-06-09,151550,25662,0,
+2025-06-16,153241,26010,0,
+2025-06-23,165302,25905,0,
+2025-06-30,144305,25915,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-07-07,140752,26522,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-07-14,145546,25803,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-07-21,142286,26050,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-07-28,157127,26136,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-08-04,140271,25903,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-08-11,138588,25765,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-08-18,141429,26242,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-08-25,141564,26676,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-09-01,147964,26336,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-09-08,131058,26283,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-09-15,146575,26311,0,Monsoon season - field access/logistics disruption (Sindh/Balochistan)
+2025-09-22,155751,26250,0,
+2025-09-29,221095,25131,1,Prompt-lifting trade incentive (illustrative)
+2025-10-06,158983,26244,0,
+2025-10-13,204004,24791,1,Prompt-lifting trade incentive (illustrative)
+2025-10-20,156210,26018,0,
+2025-10-27,145786,26487,0,Pipeline/export terminal congestion
+2025-11-03,170579,26777,0,
+2025-11-10,153267,26589,0,
+2025-11-17,157621,26471,0,
+2025-11-24,164053,26707,0,Winter peak refinery offtake
+2025-12-01,179568,26664,0,Winter peak refinery offtake
+2025-12-08,164123,26865,0,Winter peak refinery offtake
+2025-12-15,161713,27028,0,Winter peak refinery offtake
+2025-12-22,162715,26450,0,Winter peak refinery offtake
